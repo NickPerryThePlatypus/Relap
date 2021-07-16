@@ -606,7 +606,8 @@ img.expetida__sec-images__img-6{
     justify-content: center;
     flex-direction: column;
     position: relative;
-    width: 345px;
+    max-width: 345px;
+    width: 100%;
     padding: 3.2rem;
     box-shadow: 4px 10px 30px rgba(0, 0, 0, .2); 
     min-height: 448px;
